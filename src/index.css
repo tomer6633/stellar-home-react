@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, .oswald {
+  font-family: 'Oswald', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
